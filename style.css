@@ -9,6 +9,7 @@ canvas {
 }
 .button {
   display: flex;
+  width:375px;
 }
 .right {
   background: blue;
